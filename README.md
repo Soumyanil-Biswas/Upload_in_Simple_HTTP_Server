@@ -1,3 +1,3 @@
 # ***Py_Server***
 
-### Copy File contents/ Upload files to peers when present within LAN with just one click
+### Let peers copy File contents/ Upload files to server when present within LAN with just one click
