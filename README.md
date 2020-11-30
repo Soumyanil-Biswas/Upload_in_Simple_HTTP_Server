@@ -17,6 +17,7 @@ $ UPLOAD
 ```
 ## Screenshots:
 
+![alt text](https://github.com/Soumyanil-Biswas/Upload_in_Simple_HTTP_Server/blob/main/Py_Server.png?raw=true)
 
 ![alt text](https://github.com/Soumyanil-Biswas/Upload_in_Simple_HTTP_Server/blob/main/UPLOAD.png?raw=true)
 
