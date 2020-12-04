@@ -34,6 +34,7 @@ $ ./uninstall.sh
 ##### After cloning simply use scripts within server_files_for_windows.
 &nbsp;
 ```
+$ python create_direc.py
 $ python Py_Server
 $ python UPLOAD
 ```
